@@ -1,0 +1,14 @@
+# Виртуальное окружение
+.venv/
+
+# Кэш Python и pytest
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Секреты
+.env
+
+# Артефакты тестов (пригодятся позже)
+test-results/
+allure-results/
